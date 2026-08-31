@@ -7,7 +7,7 @@ title: Certifications
 ![MATLAB Certificate](../images/matlab.png)
 [View Certificate (PDF)](../certificates/matlab.pdf)
 
-Brief description of the certification and what it covered.
+MATLAB Onramp demonstrates basic navigation of MATLAB coding.
 
 ---
 
@@ -15,7 +15,7 @@ Brief description of the certification and what it covered.
 ![Simulink Certificate](../images/simulink.png)
 [View Certificate (PDF)](../certificates/simulink.pdf)
 
-Brief description of the certification and what it covered.
+Simulink Onramp demonstrates basic navigation of MATLAB's simulink features.
 
 ---
 
@@ -23,7 +23,7 @@ Brief description of the certification and what it covered.
 ![Simscape Certificate](../images/simscape.png)
 [View Certificate (PDF)](../certificates/simscape.pdf)
 
-Brief description of the certification and what it covered.
+Simscape Onramp demonstrates basic navigation of MATLAB's simscape features.
 
 ---
 
@@ -31,12 +31,11 @@ Brief description of the certification and what it covered.
 ![Power Electronics Certificate](../images/power-electronics.png)
 [View Certificate (PDF)](../certificates/power-electronics.pdf)
 
-Brief description of the certification and what it covered.
-
+Power Electronics Simulation Onramp demonstrates basic understanding of utalizing simscape for modeling power converters such as buck converters.
 ---
 
 ## Circuit Simulation
 ![Circuit Simulation Certificate](../images/circuit-simulation.png)
 [View Certificate (PDF)](../certificates/circuit-simulation.pdf)
 
-Brief description of the certification and what it covered.
+Circuit Simulation Onramp demonstrates basic understanding of utalizing simscape for simulating analog electrical circuits.

@@ -2,8 +2,8 @@
 title: Home
 ---
 <center>
-<font size="6">[Your Name]</font><br>
-<font size="5">[Your Title — e.g. Electrical Engineering Student]</font><br>
+<font size="6">Aaron Kiem</font><br>
+<font size="5">Electrical Engineering Student</font><br>
 </center>
 
 ## About Me

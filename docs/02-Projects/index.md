@@ -3,11 +3,11 @@ title: Projects
 ---
 # Projects
 
-## [Project Name]
+## SolidWorks Bicycle
 
-**Tech Stack:** [e.g. MATLAB, Simulink, Python]
+**Tech Stack:** SolidWorks 3d component modling, SolidWorks drawing, SolidWorks Assembly
 
-Short description of what the project does and your role in it.
+Create individual components, drawing files, and assemble a complete bicycle in SolidWorks
 
 [View Repo](https://github.com/yourusername/project-name)
 
