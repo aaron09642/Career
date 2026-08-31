@@ -1,0 +1,47 @@
+site_name: "[Your Name] — Career Site"
+site_url: https://yourusername.github.io/
+repo_url: https://github.com/yourusername/yourusername.github.io
+edit_uri: edit/main/docs/
+
+theme:
+  name: material
+  palette:
+    primary: blue
+    accent: indigo
+  font:
+    text: Roboto
+  # logo: static/logo.svg        # uncomment and add a logo file if you have one
+  # favicon: static/favicon.png
+
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - toc.follow
+    - navigation.top
+    - navigation.path
+    - navigation.indexes
+    - content.action.edit
+    - navigation.footer
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - footnotes
+  - pymdownx.superfences
+
+plugins:
+  - search
+  - glightbox   # lets certificate/project images be clicked to zoom
+
+extra_css:
+  - stylesheets/extra.css
+
+copyright: "Copyright &copy; 2026 [Your Name]"
+
+extra:
+  generator: false
+  social:
+    - icon: fontawesome/brands/linkedin
+      link: https://linkedin.com/in/yourname
+    - icon: fontawesome/brands/github
+      link: https://github.com/yourusername
