@@ -22,6 +22,19 @@ Created individual components, drawing files, and assembled a complete bicycle i
 
 **Tech Stack:** Solidworks modeling, 3D printing, KiCAD circuit/PCB outlining, soldering, MPlab x IDE programming, Pic18f42k47, ESP32
 
+<div style="max-width: 315px; margin: 0 auto;">
+  <div style="position: relative; padding-bottom: 177.78%; height: 0;">
+    <iframe
+      src="https://www.youtube.com/embed/CgNYh9vksoY"
+      title="YouTube video player"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen
+      style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+    </iframe>
+  </div>
+</div>
+
 Designed the metal detection system for the exploration rover using an LDC1101 inductance to digital converter.
 
 [View Individual Repo](https://aaronkiem.github.io/)
