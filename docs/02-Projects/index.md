@@ -7,7 +7,7 @@ title: Projects
 
 **Tech Stack:** SolidWorks 3d component modling, SolidWorks drawing, SolidWorks Assembly
 
-![Solidworks](../Solidworks/Bicycle.png)
+![Solidworks](../02-Projects/Solidworks/Bicycle.png)
 
 [View Project Result (PDF)](../Solidworks/Bicycle.pdf)
 
