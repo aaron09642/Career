@@ -36,12 +36,12 @@ plugins:
 extra_css:
   - stylesheets/extra.css
 
-copyright: "Copyright &copy; 2026 [Your Name]"
+copyright: "Copyright &copy; 2026 Aaron Kiem"
 
 extra:
   generator: false
   social:
     - icon: fontawesome/brands/linkedin
-      link: https://linkedin.com/in/yourname
+      link: https://linkedin.com/in/aaron-kiem
     - icon: fontawesome/brands/github
-      link: https://github.com/yourusername
+      link: https://github.com/aaron09642
