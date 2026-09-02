@@ -65,5 +65,5 @@ Designed five 3D printed boxes and programmed Arduino to unlock independent box 
   </div>
 </div>
 
-[View Team Repo](https://asu-egr304-2025-f-204.github.io/)
+[View Team Project Manual (PDF)](../02-Projects/Box_Manual.pdf)
 
