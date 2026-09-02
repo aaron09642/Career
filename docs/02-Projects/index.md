@@ -35,7 +35,18 @@ Designed the metal detection system for the exploration rover using an LDC1101 i
 
 **Tech Stack:** MPlab x IDE programming, breadboard, Pic18f42k47
 
-<iframe src="https://www.youtube.com/embed/y6O_NVVPS9g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"> </iframe>
+<div style="max-width: 315px; margin: 0 auto;">
+  <div style="position: relative; padding-bottom: 177.78%; height: 0;">
+    <iframe
+      src="https://www.youtube.com/embed/y6O_NVVPS9g"
+      title="YouTube video player"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen
+      style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+    </iframe>
+  </div>
+</div>
 
 Designed the clap light sound toggle system using an CMEJ-4618-42-L177 electret microphone.
 
