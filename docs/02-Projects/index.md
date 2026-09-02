@@ -9,9 +9,9 @@ title: Projects
 
 ![Solidworks](../02-Projects/Solidworks/Bicycle.png)
 
-[View Project Result (PDF)](../Solidworks/Bicycle.pdf)
+[View Project Result (PDF)](../02-Projects/Solidworks/Bicycle.pdf)
 
-[Download Project (Zip)](../Solidworks/Bicycle-Project.zip)
+[Download Project (Zip)](../02-Projects/Solidworks/Bicycle-Project.zip)
 
 Created individual components, drawing files, and assembled a complete bicycle in SolidWorks
 
