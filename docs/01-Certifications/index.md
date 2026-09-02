@@ -15,7 +15,7 @@ MATLAB Onramp demonstrates basic navigation of MATLAB coding.
 ![Simulink Certificate](../images/simulink.png)
 [View Certificate (PDF)](../certificates/simulink.pdf)
 
-Simulink Onramp demonstrates basic navigation of MATLAB's simulink features.
+Simulink Onramp demonstrates basic navigation of MATLAB's Simulink features.
 
 ---
 
@@ -23,7 +23,7 @@ Simulink Onramp demonstrates basic navigation of MATLAB's simulink features.
 ![Simscape Certificate](../images/simscape.png)
 [View Certificate (PDF)](../certificates/simscape.pdf)
 
-Simscape Onramp demonstrates basic navigation of MATLAB's simscape features.
+Simscape Onramp demonstrates basic navigation of MATLAB's Simscape features.
 
 ---
 
@@ -31,11 +31,12 @@ Simscape Onramp demonstrates basic navigation of MATLAB's simscape features.
 ![Power Electronics Certificate](../images/power-electronics.png)
 [View Certificate (PDF)](../certificates/power-electronics.pdf)
 
-Power Electronics Simulation Onramp demonstrates basic understanding of utalizing simscape for modeling power converters such as buck converters.
+Power Electronics Simulation Onramp demonstrates basic understanding of utilizing Simscape for modeling power converters.
+
 ---
 
 ## Circuit Simulation
 ![Circuit Simulation Certificate](../images/circuit-simulation.png)
 [View Certificate (PDF)](../certificates/circuit-simulation.pdf)
 
-Circuit Simulation Onramp demonstrates basic understanding of utalizing simscape for simulating analog electrical circuits.
+Circuit Simulation Onramp demonstrates basic understanding of utilizing Simscape for simulating analog electrical circuits.
