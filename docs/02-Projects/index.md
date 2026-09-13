@@ -90,5 +90,6 @@ Designed five 3D printed boxes and programmed Arduino to unlock independent box 
 </div>
 
 [View Team Project Manual (PDF)](../02-Projects/Final-Report-Manual.pdf)
+
 [View Team Project Picture (PDF)](../02-Projects/Final-Project-Demonstration.pdf)
 
