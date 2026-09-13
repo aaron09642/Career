@@ -16,6 +16,6 @@ Outside of coursework, I'm study animation with the blender animation software, 
 
 ## Resume
 
-[Download Resume (PDF)](Resume-Aaron-Kiem.pdf)
+[View Resume (PDF)](Resume-Aaron-Kiem.pdf)
 
 <!-- Or paste the full resume text below instead of/in addition to the PDF link -->
