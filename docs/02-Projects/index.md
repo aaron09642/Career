@@ -105,7 +105,7 @@ One of many small solo projects using the Blender animation and modeling softwar
 <div style="max-width: 315px; margin: 0 auto;">
   <div style="position: relative; padding-bottom: 177.78%; height: 0;">
     <iframe
-      src="https://youtube.com/shorts/LX3g3UL9CwE?feature=share"
+      src="https://www.youtube.com/embed/LX3g3UL9CwE"
       title="YouTube video player"
       frameborder="0"
       allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
@@ -114,7 +114,6 @@ One of many small solo projects using the Blender animation and modeling softwar
     </iframe>
   </div>
 </div>
-
 
 
 
