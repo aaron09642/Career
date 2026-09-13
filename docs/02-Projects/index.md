@@ -35,7 +35,7 @@ Created individual components, drawing files, and assembled a complete bicycle i
   </div>
 </div>
 
-Designed the metal detection system for the exploration rover using an LDC1101 inductance to digital converter.
+Designed the metal detection system for the exploration rover using an LDC1101 inductance to digital converter. Success was limited due to design error and fixed through soldering. Result: system was working for short period, but failed across traveling period.
 
 [View Individual Repo](https://aaronkiem.github.io/)
 
